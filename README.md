@@ -41,4 +41,3 @@ cd DSA-C-Program
 
 ---
 
-⭐ *Learning, coding, and improving one algorithm at a time.*
