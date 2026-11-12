@@ -26,7 +26,6 @@ This repository documents my journey of learning DSA, improving problem-solving 
 ## 🛠️ Tech Stack
 
 - **Language:** C
-- **Compiler:** GCC
 - **Version Control:** Git & GitHub
 
 ## 💻 Getting Started
