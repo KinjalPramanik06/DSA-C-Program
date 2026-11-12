@@ -21,8 +21,7 @@ This repository documents my journey of learning DSA, improving problem-solving 
 - **Trees:** BST, AVL, Threaded Binary Tree
 - **Graphs:** BFS, DFS, Dijkstra's Algorithm
 - **Others:** Polynomial Operations, Hashing
-
-*Programs are being added progressively.*
+- 
 
 ## 🛠️ Tech Stack
 
